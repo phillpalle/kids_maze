@@ -1,0 +1,11 @@
+{
+  "$schema": "https://content.luanti.org/api/cdb_schema/",
+  "title": "Kids Maze: a treasure labyrinth for kids",
+  "short_description": "A hedge maze that builds itself when the world starts. Riddle gates, animals to feed, a stopwatch, and a treasure under the golden tower. No commands, no coding.",
+  "long_description": "**Built with AI. Tested with kids.**\n\nThe maze builds itself the moment your kid enters the world. A stopwatch starts at the gate. The treasure: a golden chest under the golden tower in the middle.\n\n## What's inside\n\n- A new, randomized maze every time — replay via the \"Play again\" button on the treasure chest\n- Riddle gates with math and word puzzles — answers as digits or words\n- Friendly animals to feed (chicken, pig, sheep, cow, cat). Feed three → diamond reward\n- Lookout towers with ladders, a wonder chest with surprises\n- Colored floor quarters so kids always know where they are\n- Best-time stopwatch, confetti, fanfare\n- **The Golden Compass** in the hotbar: right-click → Back to gate · New maze · Parent view\n\n## For parents\n\n- No account, no chat with strangers, runs fully offline\n- Nothing to type — everything is buttons: the compass menu, Willy's tips, the treasure chest\n- Hedges are unbreakable, nothing in the maze can hurt your kid\n- Puzzles are gates, not school: the maze works even if you skip them\n- Parent view from above: right-click the Golden Compass (spoils the way — parents only)\n\n## Privacy\n\nCollects nothing. Connects nowhere.",
+  "tags": ["education", "mini-game", "puzzle"],
+  "license": "MIT",
+  "media_license": "MIT",
+  "dev_state": "ACTIVELY_DEVELOPED",
+  "ai_disclosure": "ASSISTED"
+}
